@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 cmake-build-debug/
 .idea/
+export_model/
